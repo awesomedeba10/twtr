@@ -4,10 +4,10 @@ twtr is package use to process and lemmatized the text data as part of NLP. Done
 
 ## Installation
 
-Install Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Install Use the package manager [test pip](https://test.pypi.org/project/twtr-tweet-process/0.2.0/) to install foobar.
 
 ```bash
-pip install foobar
+pip install -i https://test.pypi.org/simple/ twtr-tweet-process==0.2.0
 ```
 
 ## Usage
